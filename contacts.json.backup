@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alice",
+    "phone": "555-0001",
+    "email": "alice@email.com"
+  },
+  {
+    "name": "Bob",
+    "phone": "555-0002",
+    "email": "bob@email.com"
+  },
+  {
+    "name": "Charlie",
+    "phone": "555-0003",
+    "email": "charlie@email.com"
+  }
+]
